@@ -1,0 +1,11 @@
+D:\Pemrograman\6\6\6\bin\Debug\netcoreapp3.1\6.exe
+D:\Pemrograman\6\6\6\bin\Debug\netcoreapp3.1\6.deps.json
+D:\Pemrograman\6\6\6\bin\Debug\netcoreapp3.1\6.runtimeconfig.json
+D:\Pemrograman\6\6\6\bin\Debug\netcoreapp3.1\6.runtimeconfig.dev.json
+D:\Pemrograman\6\6\6\bin\Debug\netcoreapp3.1\6.dll
+D:\Pemrograman\6\6\6\bin\Debug\netcoreapp3.1\6.pdb
+D:\Pemrograman\6\6\6\obj\Debug\netcoreapp3.1\6.csprojAssemblyReference.cache
+D:\Pemrograman\6\6\6\obj\Debug\netcoreapp3.1\6.AssemblyInfoInputs.cache
+D:\Pemrograman\6\6\6\obj\Debug\netcoreapp3.1\6.AssemblyInfo.cs
+D:\Pemrograman\6\6\6\obj\Debug\netcoreapp3.1\6.dll
+D:\Pemrograman\6\6\6\obj\Debug\netcoreapp3.1\6.pdb
